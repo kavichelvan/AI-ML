@@ -1,3 +1,4 @@
+# https://github.com/CumulusCycles/Amazon_Lex_demo/blob/main/Lambda/lambda_handler.py
 import json
 
 burger_sizes = ['single', 'double', 'triple']
